@@ -4,15 +4,13 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title : Carlos Becker
-production_url : http://carlosbecker.com
-description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
-disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
-base_url: /dadblog
+title : drapergeek - dad
+production_url : http://dad.drapergeek.com
+description: "Small things I've discovered as a dad"
+disqus_shortname: dad-drapergeek
+analytics: UA-47166105-3
 author :
-  name : Carlos Alexandro Becker
-  github : caarlos0
-  twitter : caarlos0
-  email: caarlos0@gmail.com
+  name : Jason Draper
+  github : drapergeek
+  twitter : drapergeek.
+  email: jason@drapergeek.com

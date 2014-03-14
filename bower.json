@@ -1,12 +1,12 @@
 {
-  "name": "Carlos Becker Blog",
+  "name": "Jason Draper Blog",
   "version": "0.0.1",
   "authors": [
-    "Carlos Alexandro Becker <caarlos0@gmail.com>"
+    "Jason Draper <jason@drapergeek.com>"
   ],
-  "description": "Carlos Becker personal blog at carlosbecker.com",
+  "description": "Jason Draper's Dad Blog",
   "license": "MIT",
-  "homepage": "http://carlosbecker.com",
+  "homepage": "http://dad.drapergeek.com",
   "private": true,
   "ignore": [
     "**/.*",
